@@ -1,4 +1,4 @@
-# Analysis of Some Online Bingo Game
+# Analysis of Some Online Bingo Games
 
 ## About this Project
 FABAMAQ produces games for several international markets, so their analysis is essential for the production of games aimed at each target audience/market.
