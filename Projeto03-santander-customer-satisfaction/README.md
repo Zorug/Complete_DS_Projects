@@ -12,4 +12,5 @@ sua experiência bancária.
 Defina claramente o problema de negócio, faça a coleta e preparo dos dados, escolha um algoritmo, treine o modelo e avalie a acurácia, que deve ser de pelo menos 70%.
 
 Para este projeto, recomendamos a utilização da linguagem Python e o dataset disponível no Kaggle em:
+
 https://www.kaggle.com/c/santander-customer-satisfaction
