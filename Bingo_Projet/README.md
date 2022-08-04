@@ -2,7 +2,7 @@
 
 ## About this Project
 FABAMAQ produces games for several international markets, so their analysis is essential for the production of games aimed at each target audience/market.
-One category of these games are bingo games, from which this project was created. They can be found [here] (https://fbm.digital/1#bingo "FBMDS - Video Bingo").
+One category of these games are bingo games, from which this project was created. They can be found [here](https://fbm.digital/1#bingo "FBMDS - Video Bingo").
 
 Typically, 30 starting balls are randomly drawn in the game. Under certain conditions, the player has the opportunity to buy up to a certain number of extra balls (variable depending on the game), in order to fill in the numbers on their game cards, winning prizes according to predefined patterns. The biggest prize is bingo (filling in all the cells on a card). Each extra ball has a variable price, depending on factors related to the total possible winnings.
 
