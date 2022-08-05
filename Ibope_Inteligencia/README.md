@@ -1,4 +1,4 @@
-#Sobre o Projeto
+# Sobre o Projeto
 
 Este projeto é uma análise que serve de alicerce para a estratégia de entrada no mercado brasileiro de uma grande multinacional varejista do ramo de
 supermercados. Ao final do projeto foi elaboraa uma apresentação para os investidores desta empresa realizando as seguintes tarefas:
