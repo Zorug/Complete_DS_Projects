@@ -27,7 +27,7 @@ https://www.kaggle.com/c/santander-customer-satisfaction
 
 ## Objective
 
-Identify dissatisfied customers at the beginning of their relationship with Banco Santander. For this, it is necessary to create a predictive model with at least 70% accuracy.
+Identify dissatisfied customers at the beginning of their relationship with Santander bank. For this, it is necessary to create a predictive model with at least 70% accuracy.
 
 ## Challenge Proposed
 
