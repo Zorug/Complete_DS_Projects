@@ -1,5 +1,9 @@
 # Prevendo o Nível de Satisfação dos Clientes do Santander
 
+## Objetivo
+
+Identificar clientes insatisfeitos no início do relacionamento com o banco Santander. Para isso é necessária a criação de uma modelo preditivo com pelo menos 70% de acurácia.
+
 ## Desafio Proposto
 
 A satisfação do cliente é uma medida fundamental de sucesso. Clientes insatisfeitos cancelam seus serviços e raramente expressam sua insatisfação antes
