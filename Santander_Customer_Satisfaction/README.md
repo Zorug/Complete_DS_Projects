@@ -20,3 +20,27 @@ Defina claramente o problema de negócio, faça a coleta e preparo dos dados, es
 Para este projeto, recomendamos a utilização da linguagem Python e o dataset disponível no Kaggle em:
 
 https://www.kaggle.com/c/santander-customer-satisfaction
+
+
+# Predicting the Satisfaction Level of Santander Customers
+
+## Objective
+
+Identify dissatisfied customers at the beginning of their relationship with Banco Santander. For this, it is necessary to create a predictive model with at least 70% accuracy.
+
+## Challenge Proposed
+
+Customer satisfaction is a key measure of success. Dissatisfied customers cancel their services and rarely express their dissatisfaction before
+to leave. Satisfied customers, on the other hand, become brand advocates!
+
+Banco Santander is asking you to help them identify dissatisfied customers at the beginning of the relationship. This would allow Santander
+Take proactive steps to improve a customer's happiness before it's too late.
+
+In this machine learning project, you will work with hundreds of anonymous resources to predict whether a customer is satisfied or dissatisfied with
+your banking experience.
+
+Clearly define the business problem, collect and prepare the data, choose an algorithm, train the model and evaluate the accuracy, which must be at least 70%.
+
+For this project, we recommend using the Python language and the dataset available in Kaggle at:
+
+https://www.kaggle.com/c/santander-customer-satisfaction
