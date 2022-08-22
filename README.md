@@ -15,6 +15,6 @@ This project is an analysis that serves as a foundation for the entry strategy i
 - Which groups of municipalities should be the gateway for companies in the country? Because?
 - Develop a classification model to calculate the probability of a given municipality belonging to one of the groups created.
 
-## Santander_Customer_Satisfaction
+## Santander_Customer_Satisfaction: Predicting the Satisfaction Level of Santander Customers
 ### Objective
 Identify dissatisfied customers at the beginning of their relationship with Santander Bank. For this, it is necessary to create a predictive model with at least 70% accuracy.
