@@ -14,3 +14,5 @@ This project is an analysis that serves as a foundation for the entry strategy i
 - Classify Brazilian municipalities based on available information. Characterize the groups of municipalities created in the best possible way;
 - Which groups of municipalities should be the gateway for companies in the country? Because?
 - Develop a classification model to calculate the probability of a given municipality belonging to one of the groups created.
+
+## Santander_Customer_Satisfaction
