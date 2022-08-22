@@ -1,7 +1,7 @@
 # Complete_Projects
 Here is a brief description of the projects carried out.
 
-## Bingo: Analysis of bingo games
+## Bingo_Project: Analysis of bingo games
 Objectives:
 - To make a exploratory analysis of the variables, comparing different games;
 - Analysis the correlations in the dataset;
