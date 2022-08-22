@@ -1,4 +1,4 @@
-# Complete_Projects
+# Complete Projects
 Here is a brief description of the projects carried out.
 
 ## Bingo_Project: Analysis of bingo games
