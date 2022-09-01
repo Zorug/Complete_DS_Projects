@@ -23,7 +23,7 @@ This dataset compiles information from 3 different markets and 3 different games
 - ball_price        - price (cr) of a given extra ball;
 - won               - cumulative winnings (cr) of a game round;
 - highest_oneaway   - highest prize (prize id for a specific prize table**) that the player is able to win at a specific point in the game. Higher ids translate to better prizes;
-- total_oenaway     - sum of all the prizes that the player is able to win;
+- total_oneaway     - sum of all the prizes that the player is able to win;
 - bought            - decision of the player. Buy or not to buy an extra ball;
 - highest_prize_won - the highest prize won on a specific extra ball and game round (prize id for a specific prize table**). Higher ids translate to better prizes;
 - bonus_prize       - in case of entering a bonus, the amount (cr) won by the player;
